@@ -1,5 +1,5 @@
 <?php
-    $to = 'info@teamflexoperations.com';
+    $to = 'admin@teamflexoperations.com';
     $name = $_POST["name"];
     $email= $_POST["email"];
     $text= $_POST["message"];
